@@ -8,7 +8,6 @@
  * Y-axis, or Z-axis of the accelerometer in terms of gravity to the nearest mg.
  * The terminal is in 38400 8E1 and the DCO, MCLK, and SMCLK are at 12MHz.
  *
- *
  * Author: Justin Roberts
  * Last-modified: 1/30/23
  *
